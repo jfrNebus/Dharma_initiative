@@ -7,10 +7,6 @@
 #define HARDWARE_TYPE MD_MAX72XX::FC16_HW
 
 
-// changenetwork-MIWIFI6Cdt-ssm7bTC7
-// changenetwork-werqwr4e456ser-eud45TG74jfEfg
-
-
 // Validos -------------------------------------
 
 
