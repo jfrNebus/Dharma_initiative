@@ -17,7 +17,7 @@ key_on = True
 trigger_failure_state = False
 
 # host = "192.168.1.138"
-host = "192.168.175.138"
+host = "192.168.150.138"
 port = 80
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
