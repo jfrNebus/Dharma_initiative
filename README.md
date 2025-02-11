@@ -8,11 +8,11 @@
 > This is the project I am currently working on. It is still not finished, I just need to do a final check.
 > Right now I am dealing with the documentation while I do check everything. I have to optimize it, to follow
 > the good practices code, etc.
->
-> For english speakers [click here](#intro) 🇬🇧
+
 
 <br>
 
 <hr> 
 
 Info to be added
+Documentación aun por agregar.
