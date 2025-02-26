@@ -1,5 +1,7 @@
 # Dharma_initiative, by jfrNebus
 
+<br>
+
 <p align="center">
     <a href="Docs"><img src="https://img.shields.io/badge/%20Word%20file%20-007dce?style=plastic"/></a>
 </p>
